@@ -1,8 +1,12 @@
 /* Nav Bar CSS */
 
-
 /* Header CSS */
-
+.page-header{
+    text-align: center;
+}
+.page-header{
+    color:blue;
+}
 
 
 /* Section CSS */
